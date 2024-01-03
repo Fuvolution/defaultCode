@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    width: 85%;
+    margin: 40px auto;
+    border: 6px #d4af37;
+    box-shadow: 5px 10px #888888;
+}
+
+h1,
+h2{
+    text-align: center;
+}
+
+ul,
+ol{
+    padding-left: 40px;
+    font-size: 20px;
+}
